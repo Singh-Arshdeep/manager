@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: personal-manager Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: au495u
+Implementation-Vendor-Id: com.star.projects
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/personal-man
+ ager/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
